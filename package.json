@@ -1,0 +1,23 @@
+{
+  "main": "index.html",
+  "name": "NW.js Addon",
+  "description": "NW.js Addon Demo",
+  "reference": "https://github.com/nwjs/nw.js/wiki/Manifest-format",
+  "version": "0.1.0",
+  "window": {
+    "title": "NW.js Addon Demo (v0.1.0-20180509)",
+    "icon": "img/logo.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,
+    "height": 600,
+    "position": "center",
+    "min_width": 600,
+    "min_height": 400,
+    "max_width": 1920,
+    "max_height": 1080
+  },
+  "webkit": {
+    "plugin": false
+  }
+}
