@@ -1,1 +1,15 @@
+button {
+  font-weight: bold;
+  cursor:pointer;
+  background-color: orange;
+  width: 100px;
+  height: 25px;
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+pre {
+  margin-left: 20px;
+  margin-top: 10px;
+}
 

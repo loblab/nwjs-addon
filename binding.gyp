@@ -2,7 +2,7 @@
   "targets": [
     {
       "target_name": "hello",
-      "sources": [ "cpp/hello.cc" ]
+      "sources": [ "cc/hello.cc" ]
     }
   ]
 }
